@@ -1,0 +1,10 @@
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+
+username: "Elena02101990"
+password: "c80b9649b7"
+
+title: "Мой любимый цветок"
+description: "Красота рядом"
+content: "Какого бы цвета не была роза, она всегда останется королевой цветов."
